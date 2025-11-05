@@ -174,7 +174,11 @@
         "{KYOGRE}": 36,
         "{GROUDON}": 42,
         "$": 0,
-        "{NICKNAME}": 56
+        "{NICKNAME}": 56,
+        "{SUBJ}": 24,
+        "{OBJ}": 24,
+        "{POSA}": 24,
+        "{POSP}": 24
       }
     },
     "1_latin_frlg": {
@@ -343,7 +347,11 @@
         "{RIVAL}": 56,
         "{VERSION}": 56,
         "$": 0,
-        "{NICKNAME}": 56
+        "{NICKNAME}": 56,
+        "{SUBJ}": 24,
+        "{OBJ}": 24,
+        "{POSA}": 24,
+        "{POSP}": 24
       }
     }
   }
