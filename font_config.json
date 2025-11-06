@@ -177,8 +177,8 @@
         "{NICKNAME}": 56,
         "{SUBJ}": 24,
         "{OBJ}": 24,
-        "{POSA}": 24,
-        "{POSP}": 24,
+        "{POSA}": 30,
+        "{POSA}": 36,
         "{PRONOUN_CAP}": 0
       }
     },
@@ -351,8 +351,8 @@
         "{NICKNAME}": 56,
         "{SUBJ}": 24,
         "{OBJ}": 24,
-        "{POSA}": 24,
-        "{POSP}": 24,
+        "{POSA}": 30,
+        "{POSA}": 36,
         "{PRONOUN_CAP}": 0
       }
     }
