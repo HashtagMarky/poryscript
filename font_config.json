@@ -178,7 +178,8 @@
         "{SUBJ}": 24,
         "{OBJ}": 24,
         "{POSA}": 24,
-        "{POSP}": 24
+        "{POSP}": 24,
+        "{PRONOUN_CAP}": 0
       }
     },
     "1_latin_frlg": {
@@ -351,7 +352,8 @@
         "{SUBJ}": 24,
         "{OBJ}": 24,
         "{POSA}": 24,
-        "{POSP}": 24
+        "{POSP}": 24,
+        "{PRONOUN_CAP}": 0
       }
     }
   }
